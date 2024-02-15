@@ -1,5 +1,3 @@
-// import { findVariableConnections, isUsed } from './yourFunctionFile'; // Make sure to replace 'yourFunctionFile' with the actual file path
-
 import { findVariableConnections, isUsed } from "../utils/connectionUtils";
 import { data } from '../testData.json'
 
